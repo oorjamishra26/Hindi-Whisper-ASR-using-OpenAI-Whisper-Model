@@ -2,7 +2,7 @@
 
 **Project Description:**
 
-The code provided is part of a project aimed at transcribing Hindi audio data using machine learning models. The test audio is one of the randomly selected hindi audio from kathbath dataset. Here's a brief overview of what the code accomplishes:
+The code provided is part of a project aimed at transcribing Hindi audio data using machine learning models. The test audio (uploaded above) is one of the randomly selected hindi audio from kathbath dataset. Here's a brief overview of what the code accomplishes:
 
 The project utilizes various Python libraries and tools to process audio data, convert it to text, and evaluate the accuracy of the transcription.
 
